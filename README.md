@@ -27,6 +27,7 @@ For the purposes of open sourcing this text and releasing it in June 2018 I have
 - I have deleted the svn repo but in the repo for this book you will find:
     - `\initial-code`. - revision 2 of the svn repo
     - `\migrated-code` - final revision of the svn repo after making the changes in this book 
+    - `\workshop\code_versions_step_by_step` contains separate folders for each of the revisions so you can see the micro code changes from each release to the next - (bonus, I thought I'd lost this)
 
 This was my first attempt at creating a 'case study book'. My most recent case study book is:
 
