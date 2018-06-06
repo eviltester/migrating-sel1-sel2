@@ -51,7 +51,7 @@ This was originally written to release as a [leanpub](http://leanpub.com) docume
 - https://github.com/eviltester/pandocifier
 - https://pandoc.org/
 
-> **No warranty provided - treat as a historical artificat.**
+> **No warranty provided - treat as a historical artifact.**
 > Alan Richardson , June 2018
 
 - http://eviltester.com
