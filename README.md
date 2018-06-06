@@ -1,5 +1,11 @@
 # Migrating from Selenium 1 to Selenium 2 a worked example case study
 
+## You can download in releases
+
+You can download the generated pdf and the Selenium 1 and Selenium 2 code in the:
+
+https://github.com/eviltester/migrating-sel1-sel2/releases/tag/1.0
+
 ## About this book
 
 This book was written in 2011 and updated in 2014 to support migration from Selenium 1 to Selenium 2.
